@@ -1,5 +1,5 @@
 // program to print the value of i
-
+//https://www.w3schools.com/CPP/default.asp (To Practice More)
 #include <iostream>
 using namespace std;
 
@@ -9,7 +9,7 @@ int main() {
         if (i == 3) {
             break;
         }
-        cout << i << endl;
+        cout << i;
     }
 
 return 0;
