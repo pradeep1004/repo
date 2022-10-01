@@ -1,5 +1,4 @@
-// program to print the value of i
-//https://www.w3schools.com/CPP/default.asp (To Practice More)
+
 #include <iostream>
 using namespace std;
 
